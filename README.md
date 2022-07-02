@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **There is a hacker attack every 39 seconds.**
 
-- 🌐 Website: https://mmbverse.github.io
+- 🌐 Portfolio: https://mmbverse.github.io
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
